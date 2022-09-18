@@ -1,5 +1,4 @@
-# configFile
-<h2>NEOVIM AND POWERSHELL SETUP</h2>
+<h1>NEOVIM AND POWERSHELL SETUP</h1>
 <div>
 <h3>Neovim lsp</h3>
 <ol>
