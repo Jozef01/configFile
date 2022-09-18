@@ -1,7 +1,7 @@
 # configFile
 <h1>NEOVIM AND POWERSHELL SETUP</h1>
 <div>
-<h1>Neovim lsp</h1>
+<h3>Neovim lsp</h3>
 <ol>
 <li>typescrit</li>
 <li>php</li>
