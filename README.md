@@ -1,5 +1,5 @@
 # configFile
-<h1>NEOVIM AND POWERSHELL SETUP</h1>
+<h2>NEOVIM AND POWERSHELL SETUP</h2>
 <div>
 <h3>Neovim lsp</h3>
 <ol>
@@ -10,6 +10,18 @@
 <li>css</li>
 <li>html</li>
 <li>css</li>
+</ol>
+</div>
+
+<div>
+<h3>Powershell setting</h3>
+<ol>
+<li>oh-my-post</li>
+<li>nerdfont</li>
+<li>Terminal-Icon</li>
+<li>PSReadline</li>
+<li>PSFzf</li>
+<li>Z directory</li>
 </ol>
 </div>
 
